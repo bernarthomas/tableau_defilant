@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tableauDefilant\\": "tableau_defilant/"
+            "tableauDefilant\\": "/"
         }
     }
 }
