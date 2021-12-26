@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TableauDefilant\\": "vendor/bt/tableau_defilant"
+            "bt\\": "vendor/bt/"
         }
     }
 }
