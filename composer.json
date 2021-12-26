@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tableauDefilant\\": "vendor/bernardthomas/tableau_defilant/"
+            "tableauDefilant\\": "tableau_defilant/"
         }
     }
 }
